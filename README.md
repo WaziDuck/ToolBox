@@ -13,3 +13,9 @@ FAPOHBOIGEA⇨eat
 EBHLIFNHDJF⇨drink
 MEOBKKINKKM⇨work
 ```
+
+## Lua
+
+* ReadVMD.lua
+
+读取 VMD 文件并转换为 lua table，你需要 `struct` 依赖。
